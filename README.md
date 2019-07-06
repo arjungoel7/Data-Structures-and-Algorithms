@@ -15,3 +15,6 @@ The resultant is popped from the stack.
 
 ## Josephus Problem.
 This algorithm solves the classic Josephus problem using a circular linked list. The circular list is traversed and nodes deleted at the specific intervals. The last remaining node is the solution to the problem.
+
+## Infix to Postfix conversion
+This program converts a infix expression to a postfix expression. A pushdown stack and a postfix array is used for the implementation.
